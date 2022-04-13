@@ -31,9 +31,9 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karan-prasad-9627a0200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-prasad-9627a0200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karan-prasad-490064222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-prasad-9627a0200" height="30" width="40" /></a>
 <a href="https://discord.gg/3tCtmhbtr3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cvFADDEN9A" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/Profile/22872290/?ref=app" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/sololearn-2.svg" alt="error" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/Profile/25140271/?ref=app" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/sololearn-2.svg" alt="error" height="30" width="40" /></a>
 
 </p>
 
